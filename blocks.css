@@ -1,0 +1,61 @@
+.wrapper {
+    
+     width: 300px;
+    height: 100px;
+}
+#blue{
+    background-color:blue;
+    width: 100px;
+    height: 100px; 
+}
+#div-aqua{
+    background-color: aqua;
+    width: 100px;
+    height: 100px; 
+}
+#black{
+    background-color: black;
+    width: 100px;
+    height: 100px; 
+}
+#row1{
+    display:flex;
+
+}
+.pink{
+    background-color: pink;
+    width: 100px;
+    height: 100px; 
+}
+.red{
+    background-color: red;
+    width: 100px;
+    height: 100px; 
+}
+.green{
+    background-color: green;
+    width: 100px;
+    height: 100px; 
+}
+.row2{
+    display:flex;
+}
+#yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 100px; 
+}
+#dark-pink{
+    background-color: darkorchid;
+    width: 100px;
+    height: 100px; 
+}
+#dark-red{
+    background-color: darkred;
+    width: 100px;
+    height: 100px; 
+}
+#row3{
+    display:flex;
+
+}
